@@ -1,0 +1,376 @@
+{
+  "4000": [
+    {
+      "module": "script/school/mainPage.js",
+      "defaults": {}
+    }
+  ],
+  "4001": [
+    {
+      "module": "script/school/wordfun.js",
+      "defaults": {}
+    }
+  ],
+  "4002": [
+    {
+      "module": "script/school/e_scramble.js",
+      "defaults": {}
+    }
+  ],
+  "4003": [
+    {
+      "module": "script/school/open.js",
+      "defaults": {}
+    }
+  ],
+  "4004": [
+    {
+      "module": "script/school/wordfunhelp.js",
+      "defaults": {}
+    }
+  ],
+  "4500": [
+    {
+      "module": "script/school/FarmTown1.js",
+      "defaults": {}
+    }
+  ],
+  "4510": [
+    {
+      "module": "script/school/FarmTown2.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownAniNav.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownNav.js",
+      "defaults": {}
+    }
+  ],
+  "4511": [
+    {
+      "module": "script/school/FarmTown2-1.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownAniNav.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownNav.js",
+      "defaults": {}
+    }
+  ],
+  "4512": [
+    {
+      "module": "script/school/FarmTown2-2.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownAniNav.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownNav.js",
+      "defaults": {}
+    }
+  ],
+  "4513": [
+    {
+      "module": "script/school/FarmTown2-3.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownAniNav.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownNav.js",
+      "defaults": {}
+    }
+  ],
+  "4514": [
+    {
+      "module": "script/school/FarmTown2-4.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownAniNav.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownNav.js",
+      "defaults": {}
+    }
+  ],
+  "4515": [
+    {
+      "module": "script/school/FarmTown2-5.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownAniNav.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownNav.js",
+      "defaults": {}
+    }
+  ],
+  "4516": [
+    {
+      "module": "script/school/FarmTown2-6.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownAniNav.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownNav.js",
+      "defaults": {}
+    }
+  ],
+  "4517": [
+    {
+      "module": "script/school/FarmTown2-7.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownAniNav.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownNav.js",
+      "defaults": {}
+    }
+  ],
+  "4530": [
+    {
+      "module": "script/school/FarmTown3.js",
+      "defaults": {}
+    }
+  ],
+  "4540": [
+    {
+      "module": "script/school/FarmTown4.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownPltNav.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownNav.js",
+      "defaults": {}
+    }
+  ],
+  "4541": [
+    {
+      "module": "script/school/FarmTown4-1.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownPltNav.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownNav.js",
+      "defaults": {}
+    }
+  ],
+  "4542": [
+    {
+      "module": "script/school/FarmTown4-2.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownPltNav.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownNav.js",
+      "defaults": {}
+    }
+  ],
+  "4544": [
+    {
+      "module": "script/school/FarmTown4-4.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownPltNav.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownNav.js",
+      "defaults": {}
+    }
+  ],
+  "4545": [
+    {
+      "module": "script/school/FarmTown4-5.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownPltNav.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownNav.js",
+      "defaults": {}
+    }
+  ],
+  "4546": [
+    {
+      "module": "script/school/FarmTown4-6.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownPltNav.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownNav.js",
+      "defaults": {}
+    }
+  ],
+  "4547": [
+    {
+      "module": "script/school/FarmTown4-7.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownPltNav.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownNav.js",
+      "defaults": {}
+    }
+  ],
+  "4548": [
+    {
+      "module": "script/school/FarmTown4-8.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownPltNav.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownNav.js",
+      "defaults": {}
+    }
+  ],
+  "4560": [
+    {
+      "module": "script/school/FarmTown5.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/school/FarmTownNav.js",
+      "defaults": {}
+    }
+  ],
+  "8000": [
+    {
+      "module": "script/museum/museum.js",
+      "defaults": {}
+    }
+  ],
+  "8010": [
+    {
+      "module": "script/museum/Welcolsec.js",
+      "defaults": {}
+    }
+  ],
+  "8100": [
+    {
+      "module": "script/museum/Rainbowstory.js",
+      "defaults": {}
+    }
+  ],
+  "8110": [
+    {
+      "module": "script/museum/page2.js",
+      "defaults": {}
+    }
+  ],
+  "8120": [
+    {
+      "module": "script/museum/page3.js",
+      "defaults": {}
+    }
+  ],
+  "8130": [
+    {
+      "module": "script/museum/page4.js",
+      "defaults": {}
+    }
+  ],
+  "8140": [
+    {
+      "module": "script/museum/page5.js",
+      "defaults": {}
+    }
+  ],
+  "8150": [
+    {
+      "module": "script/museum/page6.js",
+      "defaults": {}
+    }
+  ],
+  "8500": [
+    {
+      "module": "script/museum/wizard.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/museum/planetnav.js",
+      "defaults": {}
+    }
+  ],
+  "8510": [
+    {
+      "module": "script/museum/wizard.js",
+      "defaults": {
+        "data": "ss1.dat"
+      }
+    },
+    {
+      "module": "script/museum/planetnav.js",
+      "defaults": {}
+    }
+  ],
+  "8520": [
+    {
+      "module": "script/museum/wizard.js",
+      "defaults": {
+        "data": "ss2.dat"
+      }
+    },
+    {
+      "module": "script/museum/planetnav.js",
+      "defaults": {}
+    }
+  ],
+  "8540": [
+    {
+      "module": "script/museum/wizhelp.js",
+      "defaults": {}
+    },
+    {
+      "module": "script/museum/planetnav.js",
+      "defaults": {}
+    }
+  ],
+  "8550": [
+    {
+      "module": "script/museum/planet.js",
+      "defaults": {}
+    }
+  ]
+}

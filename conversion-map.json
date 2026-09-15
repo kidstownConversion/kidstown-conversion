@@ -1,0 +1,321 @@
+[
+  {
+    "source": "scripts/school/FarmTown1.pl",
+    "target": "script/school/FarmTown1.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown2-1.pl",
+    "target": "script/school/FarmTown2-1.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown2-2.pl",
+    "target": "script/school/FarmTown2-2.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown2-3.pl",
+    "target": "script/school/FarmTown2-3.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown2-4.pl",
+    "target": "script/school/FarmTown2-4.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown2-5.pl",
+    "target": "script/school/FarmTown2-5.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown2-6.pl",
+    "target": "script/school/FarmTown2-6.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown2-7.pl",
+    "target": "script/school/FarmTown2-7.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown2.pl",
+    "target": "script/school/FarmTown2.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown3.pl",
+    "target": "script/school/FarmTown3.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown4-1.pl",
+    "target": "script/school/FarmTown4-1.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown4-2.pl",
+    "target": "script/school/FarmTown4-2.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown4-4.pl",
+    "target": "script/school/FarmTown4-4.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown4-5.pl",
+    "target": "script/school/FarmTown4-5.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown4-6.pl",
+    "target": "script/school/FarmTown4-6.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown4-7.pl",
+    "target": "script/school/FarmTown4-7.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown4-8.pl",
+    "target": "script/school/FarmTown4-8.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown4.pl",
+    "target": "script/school/FarmTown4.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTown5.pl",
+    "target": "script/school/FarmTown5.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTownAniNav.pl",
+    "target": "script/school/FarmTownAniNav.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTownNav.pl",
+    "target": "script/school/FarmTownNav.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/FarmTownPltNav.pl",
+    "target": "script/school/FarmTownPltNav.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/cgi-lib.pl",
+    "target": "script/school/cgi-lib.js",
+    "functions": [
+      "ReadParse",
+      "PrintHeader",
+      "HtmlTop",
+      "HtmlBot",
+      "MethGet",
+      "MethPost",
+      "MyURL",
+      "PrintVariablesShort"
+    ]
+  },
+  {
+    "source": "scripts/school/e_scramble.pl",
+    "target": "script/school/e_scramble.js",
+    "functions": []
+  },
+  {
+    "source": "scripts/school/file-lib.pl",
+    "target": "script/school/file-lib.js",
+    "functions": [
+      "GetFileNames",
+      "GetRecord",
+      "CountRecords",
+      "WriteRecord",
+      "FindRecord",
+      "RemoveRecord"
+    ]
+  },
+  {
+    "source": "scripts/school/mainPage.pl",
+    "target": "script/school/mainPage.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/misc-lib.pl",
+    "target": "script/school/misc-lib.js",
+    "functions": [
+      "Top",
+      "Botm",
+      "Die"
+    ]
+  },
+  {
+    "source": "scripts/school/misc-libscr.pl",
+    "target": "script/school/misc-libscr.js",
+    "functions": [
+      "Top",
+      "Botm",
+      "Die"
+    ]
+  },
+  {
+    "source": "scripts/school/open.pl",
+    "target": "script/school/open.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/school/wordfun.pl",
+    "target": "script/school/wordfun.js",
+    "functions": [
+      "header",
+      "footer",
+      "intro"
+    ]
+  },
+  {
+    "source": "scripts/school/wordfunhelp.pl",
+    "target": "script/school/wordfunhelp.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/museum/Rainbowstory.pl",
+    "target": "script/museum/Rainbowstory.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/museum/Welcolsec.pl",
+    "target": "script/museum/Welcolsec.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/museum/c_parse.pl",
+    "target": "script/museum/c_parse.js",
+    "functions": [
+      "GetRecord",
+      "CountRecords"
+    ]
+  },
+  {
+    "source": "scripts/museum/cgi-lib.pl",
+    "target": "script/museum/cgi-lib.js",
+    "functions": [
+      "ReadParse",
+      "PrintHeader",
+      "HtmlTop",
+      "HtmlBot",
+      "SplitParam",
+      "MethGet",
+      "MethPost",
+      "MyBaseUrl",
+      "MyFullUrl",
+      "MyURL",
+      "CgiError",
+      "CgiDie",
+      "PrintVariables",
+      "PrintEnv"
+    ]
+  },
+  {
+    "source": "scripts/museum/museum.pl",
+    "target": "script/museum/museum.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/museum/page2.pl",
+    "target": "script/museum/page2.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/museum/page3.pl",
+    "target": "script/museum/page3.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/museum/page4.pl",
+    "target": "script/museum/page4.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/museum/page5.pl",
+    "target": "script/museum/page5.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/museum/page6.pl",
+    "target": "script/museum/page6.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/museum/planet.pl",
+    "target": "script/museum/planet.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/museum/planetnav.pl",
+    "target": "script/museum/planetnav.js",
+    "functions": [],
+    "kind": "template"
+  },
+  {
+    "source": "scripts/museum/wizard.pl",
+    "target": "script/museum/wizard.js",
+    "functions": [
+      "InitFormVars",
+      "GetEnvironment",
+      "GetInputData",
+      "SendAnswerHTML",
+      "GetAnswerFormData",
+      "DisplayQuestion",
+      "SendQuestionHTML",
+      "SendStartOverHTML",
+      "GetNextGame",
+      "Decode",
+      "Encode"
+    ]
+  },
+  {
+    "source": "scripts/museum/wizhelp.pl",
+    "target": "script/museum/wizhelp.js",
+    "functions": [],
+    "kind": "template"
+  }
+]
