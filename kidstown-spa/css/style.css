@@ -1,0 +1,63 @@
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  background: #eee2b4;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+#nav {
+  background: #ffffff;
+  border-bottom: 2px solid #999;
+  text-align: center;
+  padding: 4px 0;
+}
+
+#nav table {
+  margin: 0 auto;
+}
+
+#nav a {
+  color: #000;
+  text-decoration: none;
+  font-size: 0.75rem;
+}
+
+#nav img {
+  display: block;
+  margin: 0 auto 2px;
+  max-height: 40px;
+}
+
+.navbtn-disabled {
+  color: #aaa;
+  font-size: 0.75rem;
+  display: inline-block;
+}
+
+.navbtn-disabled img {
+  display: block;
+  margin: 0 auto 2px;
+  max-height: 40px;
+  opacity: 0.4;
+}
+
+#app {
+  max-width: 700px;
+  margin: 20px auto;
+  background: #fff;
+  padding: 20px 30px;
+  border: 1px solid #ccc;
+}
+
+#app a {
+  color: blue;
+}
+
+#app a:visited {
+  color: purple;
+}
+
+#app img {
+  max-width: 100%;
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>KidsTown</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="nav"></div>
+  <main id="app"></main>
+
+  <!-- config first (site-wide paths), then each section registers its routes into the
+       shared `routes` table, then router.js wires up navigation and boots the first page -->
+  <script src="js/config.js"></script>
+  <script src="js/nav.js"></script>
+  <script src="js/router.js"></script>
+  <script src="js/home.js"></script>
+  <script src="js/cityhall.js"></script>
+  <script src="js/toystore.js"></script>
+  <script src="data/citypark-pages.js"></script>
+  <script src="js/citypark.js"></script>
+</body>
+</html>
