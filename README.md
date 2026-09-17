@@ -8,6 +8,9 @@ The completed application is deployed using GitHub Pages:
 
 https://kidstownconversion.github.io/kidstown-conversion/
 
+<img width="1509" height="859" alt="Screenshot 2026-09-17 at 11 00 30 AM" src="https://github.com/user-attachments/assets/78f60a90-737b-4356-8a0a-7e743ea2cc7b" />
+
+
 ## Project Status
 
 Status: Complete
