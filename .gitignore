@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Node dependencies if added in the future
+node_modules/
